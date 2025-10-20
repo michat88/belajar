@@ -1,0 +1,8 @@
+{
+    "name": "AmanGacor repository",
+    "description": "HexatedRepo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/michat88/belajar/builds/plugins.json"
+    ]
+}
