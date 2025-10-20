@@ -12,7 +12,7 @@ import okhttp3.RequestBody.Companion.toRequestBody
 
 class Moviebox : MainAPI() {
     override var mainUrl = "https://tv6.lk21official.cc"
-    private val apiUrl = "http://139.59.9.137"
+    private val apiUrl = "https://fmoviesunblocked.net"
     override val instantLinkLoading = true
     override var name = "LK21"
     override val hasMainPage = true
