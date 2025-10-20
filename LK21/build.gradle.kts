@@ -24,5 +24,5 @@ cloudstream {
         "AsianDrama",
     )
 
-    iconUrl = "https://images.dwncdn.net/images/t_app-icon-m/p/e83384b0-0fe9-4f46-939e-cbdad5dc20bb/2548036024/31711_4-78624899-imgingest-4278046119853529974.jpg"
+    iconUrl = "https://moviebox.ph/favicon.ico"
 }
